@@ -1,0 +1,31 @@
+Help Manual.
+
+This file provide informationto login and troubleshoot common login issues.
+
+This include content as follows:
+1.Introduction.
+2.Logging In.
+3.Forget Password.
+4.Troubleshooting.
+
+1.Introduction:
+The login features allows user to use the features of the website.This section provides the instructions to login and manage your accout.
+
+2.Logging In:
+To login to website follow these steps:
+- Step 1: Go to the website.
+- Step 2: On to the login screen, enter your username and password.
+- Step 3: Click on the login button.
+- Step 4: If the login is valid then,you will be looged in and redirected to dashboard.
+
+3.Forgot Password:
+If you forgot your password, folow those steps to reset if:
+- Step 1: On the login screen, click on the "Forgot Password" link.
+- Step 2: First choose the correct  security keys and enter new username and new password.
+- Step 3: Once the password is reset then, you can login using the new password.
+
+4.Troubleshooting:
+If you are facing some issues while logging to website,try the following steps:
+- Step 1: Verify that you are using correct username and password.
+- Step 2: Check your internet connection to ensure it is stable.
+- Step 3:Check your browser cache and try to logging in again.
